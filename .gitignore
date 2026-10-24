@@ -1,0 +1,12 @@
+.env
+.env.*.local
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.py[cod]
+data/
+route_test_result.txt
+.env.*
+!.env.example
